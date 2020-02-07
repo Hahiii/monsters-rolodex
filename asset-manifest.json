@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https//Hahiii.github.io//monsters-rolodex/static/css/main.b95f0374.chunk.css",
-    "main.js": "https//Hahiii.github.io//monsters-rolodex/static/js/main.bdf5197d.chunk.js",
-    "main.js.map": "https//Hahiii.github.io//monsters-rolodex/static/js/main.bdf5197d.chunk.js.map",
-    "runtime-main.js": "https//Hahiii.github.io//monsters-rolodex/static/js/runtime-main.8ea610eb.js",
-    "runtime-main.js.map": "https//Hahiii.github.io//monsters-rolodex/static/js/runtime-main.8ea610eb.js.map",
-    "static/js/2.1f3314c8.chunk.js": "https//Hahiii.github.io//monsters-rolodex/static/js/2.1f3314c8.chunk.js",
-    "static/js/2.1f3314c8.chunk.js.map": "https//Hahiii.github.io//monsters-rolodex/static/js/2.1f3314c8.chunk.js.map",
-    "index.html": "https//Hahiii.github.io//monsters-rolodex/index.html",
-    "precache-manifest.ddad7772b5880103e9df61027f6042db.js": "https//Hahiii.github.io//monsters-rolodex/precache-manifest.ddad7772b5880103e9df61027f6042db.js",
-    "service-worker.js": "https//Hahiii.github.io//monsters-rolodex/service-worker.js",
-    "static/css/main.b95f0374.chunk.css.map": "https//Hahiii.github.io//monsters-rolodex/static/css/main.b95f0374.chunk.css.map",
-    "static/js/2.1f3314c8.chunk.js.LICENSE.txt": "https//Hahiii.github.io//monsters-rolodex/static/js/2.1f3314c8.chunk.js.LICENSE.txt"
+    "main.css": "https//hahiii.github.io/monsters-rolodex/static/css/main.b95f0374.chunk.css",
+    "main.js": "https//hahiii.github.io/monsters-rolodex/static/js/main.57f88cd5.chunk.js",
+    "main.js.map": "https//hahiii.github.io/monsters-rolodex/static/js/main.57f88cd5.chunk.js.map",
+    "runtime-main.js": "https//hahiii.github.io/monsters-rolodex/static/js/runtime-main.67e260c0.js",
+    "runtime-main.js.map": "https//hahiii.github.io/monsters-rolodex/static/js/runtime-main.67e260c0.js.map",
+    "static/js/2.1f3314c8.chunk.js": "https//hahiii.github.io/monsters-rolodex/static/js/2.1f3314c8.chunk.js",
+    "static/js/2.1f3314c8.chunk.js.map": "https//hahiii.github.io/monsters-rolodex/static/js/2.1f3314c8.chunk.js.map",
+    "index.html": "https//hahiii.github.io/monsters-rolodex/index.html",
+    "precache-manifest.da66e5adb9acdb637a6ab4bede4e11ec.js": "https//hahiii.github.io/monsters-rolodex/precache-manifest.da66e5adb9acdb637a6ab4bede4e11ec.js",
+    "service-worker.js": "https//hahiii.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.b95f0374.chunk.css.map": "https//hahiii.github.io/monsters-rolodex/static/css/main.b95f0374.chunk.css.map",
+    "static/js/2.1f3314c8.chunk.js.LICENSE.txt": "https//hahiii.github.io/monsters-rolodex/static/js/2.1f3314c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ea610eb.js",
+    "static/js/runtime-main.67e260c0.js",
     "static/js/2.1f3314c8.chunk.js",
     "static/css/main.b95f0374.chunk.css",
-    "static/js/main.bdf5197d.chunk.js"
+    "static/js/main.57f88cd5.chunk.js"
   ]
 }
